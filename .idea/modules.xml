@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SurvivorBird.iml" filepath="$PROJECT_DIR$/.idea/modules/SurvivorBird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/SurvivorBird.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/SurvivorBird.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/SurvivorBird.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/SurvivorBird.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/SurvivorBird.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/SurvivorBird.core.test.iml" />
+    </modules>
+  </component>
+</project>
